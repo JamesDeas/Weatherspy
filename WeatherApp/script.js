@@ -1,4 +1,4 @@
-const apiKey = "2bacd5d44287eb5b05b9dc7f7674a123"; // Unique API Key
+const apiKey = " Enter your own unique API Key here! "; // Unique API Key
 
 // Get user's current location
 document
